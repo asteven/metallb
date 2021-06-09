@@ -1,3 +1,4 @@
 resources:
-  - metallb.yaml
   - namespace.yaml
+  - metallb-controller.yaml
+  - metallb-speaker.yaml
